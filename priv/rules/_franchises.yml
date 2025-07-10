@@ -23,7 +23,7 @@
   metadata: &2
     title_ru: Атака титанов
     title_en: Shingeki no Kyojin
-    image: "/assets/achievements/anime/franchise/shingeki_no_kyojin.jpg"
+    image: "https://media1.tenor.com/m/iC5HSCJRaXUAAAAd/attack-on-titan-funny.gif"
     topic_id: 247360
   generator:
 - neko_id: shingeki_no_kyojin
