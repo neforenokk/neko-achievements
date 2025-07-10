@@ -23,7 +23,7 @@
   metadata: &2
     title_ru: Атака титанов
     title_en: Shingeki no Kyojin
-    image: "/assets/achievements/anime/franchise/shingeki_no_kyojin.jpg"
+    image: "https://otvet.imgsmail.ru/download/u_96c15de3b4a66ad927fe5e613b4439c2.gif"
     topic_id: 247360
   generator:
 - neko_id: shingeki_no_kyojin
@@ -42,7 +42,7 @@
   metadata: &4
     title_ru: Токийский гуль
     title_en: Tokyo Ghoul
-    image: "/assets/achievements/anime/franchise/tokyo_ghoul.jpg"
+    image: "https://cs-lastrain.ru/files/filemanager/1985/kaneki%20kynnnnn%20love%203.gif?1627460922005"
     topic_id: 247360
 - neko_id: tokyo_ghoul
   level: 0
@@ -61,7 +61,7 @@
   metadata: &6
     title_ru: Ванпанчмен
     title_en: One Punch Man
-    image: "/assets/achievements/anime/franchise/one_punch_man.jpg"
+    image: "https://steamuserimages-a.akamaihd.net/ugc/2482127411164139682/0D606B860E091DB80207EA89AE9EF090DAD94E76/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"
     topic_id: 247360
   generator: &7
     threshold: 96%
@@ -97,7 +97,7 @@
   metadata: &9
     title_ru: Мастера Меча Онлайн
     title_en: Sword Art Online
-    image: "/assets/achievements/anime/franchise/sword_art_online.jpg"
+    image: "https://pa1.aminoapps.com/6213/08b5dd75276b464af46fcf8aaeec42bef2f3f2c1_hq.gif"
     topic_id: 247360
   generator: &10
     ignore_latest_ids:
@@ -120,7 +120,7 @@
   metadata: &12
     title_ru: Клинок, рассекающий демонов
     title_en: Kimetsu no Yaiba
-    image: "/assets/achievements/anime/franchise/demon_slayer.jpg"
+    image: "https://i.pinimg.com/originals/8a/34/a3/8a34a34e3d883f10a8b408ea1f81a35f.gif"
     topic_id: 247360
   generator: &13
     threshold: 96%
@@ -148,7 +148,7 @@
   metadata: &15
     title_ru: Наруто
     title_en: Naruto
-    image: "/assets/achievements/anime/franchise/naruto.jpg"
+    image: "https://camo-v3.shikimori.one/0680901a39a0de630095d0f43e5c0c6d77b313fe?url=https%3A%2F%2Fsteamuserimages-a.akamaihd.net%2Fugc%2F884253767814725318%2F687104D74D951CFE97C8243A1405173DDA319EFC%2F%3Fimw%3D512%26amp%3Bimh%3D265%26amp%3Bima%3Dfit%26amp%3Bimpolicy%3DLetterbox%26amp%3Bimcolor%3D%2523000000%26amp%3Bletterbox%3Dtrue"
     topic_id: 247360
 - neko_id: naruto
   level: 0
@@ -189,7 +189,7 @@
   metadata: &19
     title_ru: Re:Zero. Жизнь с нуля в альтернативном мире
     title_en: Re:Zero kara Hajimeru Isekai Seikatsu
-    image: "/assets/achievements/anime/franchise/re_zero.jpg"
+    image: "https://pa1.aminoapps.com/7272/3ce71cb8d91cd3e70cc6e1c4d435139970bb8dcdr1-540-304_hq.gif"
     topic_id: 247360
 - neko_id: re_zero
   level: 0
@@ -240,7 +240,7 @@
   metadata: &24
     title_ru: Стальной алхимик
     title_en: Fullmetal Alchemist
-    image: "/assets/achievements/anime/franchise/fullmetal_alchemist.jpg"
+    image: "https://pa1.aminoapps.com/7175/c1d7a404a4a7a1ab5b354a9d302362b82fcb1b49r1-500-324_hq.gif"
     topic_id: 247360
   generator: &25
     not_ignored_ids:
